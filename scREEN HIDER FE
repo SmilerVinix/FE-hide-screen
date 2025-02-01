@@ -4,7 +4,7 @@ local backpack = player:FindFirstChild("Backpack")
 
 -- Create the Tool
 local tool = Instance.new("Tool")
-tool.Name = "W.I.P cover eyes"
+tool.Name = "W.I.P close eyes"
 tool.RequiresHandle = false -- No need for a handle
 tool.Parent = backpack -- Put tool in inventory
 
